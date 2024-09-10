@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Chuỗi:");
         linkedList.display();
 
-        System.out.println("Chuỗi sau khi srt từ bé -> lớn :");
+        System.out.println("Chuỗi sau khi sort từ bé -> lớn :");
         linkedList.sort();
         linkedList.display();
 
